@@ -1,5 +1,5 @@
-PROJECT STUDIO 
-==============
+PROJECT STUDIO DIRECTED STUDY 
+=============================
 
 #### NYU Abu Dhab Interactive Media
 
@@ -16,7 +16,7 @@ Office Hours: TBD
 Course Description
 ------------------
 
-This 2-unit 7-week course will provide students with an environment to work on an interactive media project that may fall outside the scope of currently offered classes. The directed study will offer the necessary structure and timeline to complete a single project as well as the opportunity for peer learning Appropriate projects lie in the area of web-based applications, trans-media narratives, virtual reality experiences, and interactive art installations. A project may be an entirely new idea or it may be an existing project that reqires more time and effort. Students may work independently or in teams.
+This 2-unit 7-week Directed Study course will provide students with an environment to work on an interactive media project that may fall outside the scope of currently offered classes. The coursey will offer the necessary structure and timeline to complete a single project as well as the opportunity for peer learning Appropriate projects lie in the area of web-based applications, trans-media narratives, virtual reality experiences, and interactive art installations. A project may be an entirely new idea or it may be an existing project that reqires more time and effort. Students may work independently or in teams.
 
 Class will meet weekly for 3 hours. Each week students will fulfill assignment deadlines and post their progress online. During class, students are expected to share project development, obtain critique, and offer critique. Guests will be invited throughout the 7 weeks to offer feedback and advice in one-on-one sessions and in a group setting. The course will culminate with a final project presentation open to the entire NYUAD community.
 
