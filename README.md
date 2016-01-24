@@ -1,17 +1,17 @@
-IM DIRECTED STUDY: PROJECT STUDIO
-=================================
+PROJECT STUDIO COURSE
+=====================
 
-##NYU Abu Dhab Interactive Media
+#### NYU Abu Dhab Interactive Media
 
-####Credit Hours: 2
-####Prerequisites: None
-####Semester: Spring 2016 (7 Weeks)
-####Time: TBD
-####Room: C3 029 (IM Lab)
+##### Credit Hours: 2
+##### Prerequisites: None
+##### Semester: Spring 2016 (7 Weeks)
+##### Time: TBD
+##### Room: C3 029 (IM Lab)
 
-####Instructor: Craig Protzel  
-####Email: craig.protzel@nyu.edu
-####Office Hours: TBD 
+##### Instructor: Craig Protzel  
+##### Email: craig.protzel@nyu.edu
+##### Office Hours: TBD 
 
 Course Description
 ------------------
@@ -20,44 +20,42 @@ This 2-unit 7-week course will provide students with an environment to work on a
 
 Class will meet weekly for 3 hours. Each week students will fulfill assignment deadlines and post their progress online. During class, students are expected to share project development, obtain critique, and offer critique. Guests will be invited throughout the 7 weeks to offer feedback and advice in one-on-one sessions and in a group setting. The course will culminate with a final project presentation open to the entire NYUAD community.
 
-
-
 Schedule
 --------
 
 ##### WEEK 0 (TUESDAY JAN 26): Start At The End 
 * Introductions
 * Gazelle writing review exercise
-* **HW** - Complete project brief. Required details will be sent via email.
+* Homework - Complete project brief. Required details will be sent via email.
 
 ##### WEEK 1 (JAN 31 - FEB 4): The Plan
 * Share project brief + Class feedback
-* **HW** - Create the "Hello World" version of your project
+* Homework - Create the "Hello World" version of your project
 
-WEEK 2 (FEB 7 - 11): Hello World
+##### WEEK 2 (FEB 7 - 11): Hello World
 * Share "Hello World" prototype
 * Create list of next steps
-* **HW** - Continue working on project. 
+* Homework - Continue working on project. 
 
-WEEK 3 (FEB 14 - 18): Guest Critics Round One
+##### WEEK 3 (FEB 14 - 18): Guest Critics Round One
 * Share progress
 * Guest feedback
-* **HW** - Complete "user-testable" project. What will you test for and why?
+* Homework - Complete "user-testable" project. What will you test for and why?
 
-WEEK 4 (FEB 21 - 25): Users 
+##### WEEK 4 (FEB 21 - 25): Users 
 * User-testing day
-* **HW** - Rework priority list + continue working on project
+* Homework - Rework priority list + continue working on project
 
-WEEK 5 (FEB 28 - MAR 3): Guest Critics Round Two 
+##### WEEK 5 (FEB 28 - MAR 3): Guest Critics Round Two 
 * Share user-testing results + subsequent progress
 * Guest feedback
 * One-On-One Meetings
-* **HW** - Create final 2 week timeline + continue working on project
+* Homework - Create final 2 week timeline + continue working on project
 
-WEEK 6 (MAR 6 - MAR 10): Last Chance
+##### WEEK 6 (MAR 6 - MAR 10): Last Chance
 * Workshop
-* **HW** - Complete project, prepare for final demo
+* Homework - Complete project, prepare for final demo
 
-WEEK 7 (MAR 13 - MAR 17): Final Due
+##### WEEK 7 (MAR 13 - MAR 17): Final Due
 * Final presentations with guests
 
