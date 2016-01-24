@@ -1,17 +1,17 @@
-PROJECT STUDIO COURSE
-=====================
+PROJECT STUDIO 
+==============
 
 #### NYU Abu Dhab Interactive Media
 
-##### Credit Hours: 2
-##### Prerequisites: None
-##### Semester: Spring 2016 (7 Weeks)
-##### Time: TBD
-##### Room: C3 029 (IM Lab)
+Credit Hours: 2  
+Prerequisites: None  
+Semester: Spring 2016 (7 Weeks)  
+Time: TBD  
+Room: C3 029 (IM Lab)    
 
-##### Instructor: Craig Protzel  
-##### Email: craig.protzel@nyu.edu
-##### Office Hours: TBD 
+Instructor: Craig Protzel    
+Email: craig.protzel@nyu.edu  
+Office Hours: TBD   
 
 Course Description
 ------------------
