@@ -26,7 +26,21 @@ Schedule
 ##### WEEK 0 (TUESDAY JAN 26): Start At The End 
 * Introductions
 * Gazelle writing review exercise
-* Homework - Complete project brief. Required details will be sent via email.
+* Homework: Project Brief - answer the following questions, be prepared to share in class
+	* Project Title
+	* Project Description (max 100 words)
+	* Who is the user?
+	* What is the user experience?
+	* What is the creative aesthetic/angle/approach?
+	* What technologies are required? Why?
+	* What do you need to learn/research/decide?
+	* What assets/content/code already exists?
+	* What assets/content/code needs to be created?
+	* What is the end goal?
+	* How will you determine if this project is a success?
+	* Cite 3 sources of inspiration
+	* Do you think all of this feasible in 7 weeks? Why?
+
 
 ##### WEEK 1 (JAN 31 - FEB 4): The Plan
 * Share project brief + Class feedback
