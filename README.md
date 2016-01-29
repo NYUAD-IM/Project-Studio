@@ -36,6 +36,7 @@ Schedule
 	* What do you need to learn/research/decide?
 	* What assets/content/code already exists?
 	* What assets/content/code needs to be created?
+	* What resources/books/sites/examples will you rely on?
 	* What is the end goal?
 	* How will you determine if this project is a success?
 	* Cite 3 sources of inspiration
