@@ -30,12 +30,12 @@ Grading
 
 Attendance & Participation
 --------------------------
-Students are expected to attend ALL classes. More than 1 unexcused absence is grounds for failing the class.
-In class, students are required to share work, offer feedback to fellow students, and present their final project at the end-of-term show. A failure to participate in these activitie is grounds for failing the class.
+Students are expected to attend **ALL** classes. More than 1 unexcused absence is grounds for failing the class.
+During class, students are required to share work, offer feedback to fellow students, and present their final project at the end-of-term show. Lack of participation in these activities is grounds for failing the class.
 
 Weekly Assignments
 ------------------
-Each week, there will be an assignment that demonstrates iterative development of the student's individual project. The intent is that each week's work will build on the preceeding week and culminate in one large final project.
+Each week, there will be assignments that demonstrate and encourage iterative development of the student's individual project. The intent is that each week's work will build on the preceeding week and culminate in one large final project.
 
 Mid-Term
 --------
