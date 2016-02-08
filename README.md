@@ -22,11 +22,11 @@ Class will meet weekly for 3 hours. Each week students will fulfill assignment d
 
 Grading
 -------
-10% - Attendance
-10% - Participation
-20% - Weekly Assignments
-20% - Mid-Term (Week 4) Project
-40% - Final Project
+10% - Attendance  
+10% - Participation  
+20% - Weekly Assignments  
+20% - Mid-Term (Week 4) Project  
+40% - Final Project  
 
 Attendance & Participation
 --------------------------
@@ -44,9 +44,10 @@ Students are required to build a "user-testable" version of their project by Wee
 Final Project
 -------------
 At the end of the 7 weeks, each student will be required to publicly present their work. The final project is expected to demonstrate a working proof of concept. The final project will be evaluated based on:
-* the student's initial projects brief
-* weekly assignment updates and progress
-* the mid-term project results
+* Initial project brief
+* Weekly assignment updates and progress
+* Mid-term project test results
+* Implementation of class feedback
 
 Schedule
 --------
