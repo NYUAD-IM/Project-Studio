@@ -20,13 +20,41 @@ This 2-unit 7-week Directed Study course will provide students with an environme
 
 Class will meet weekly for 3 hours. Each week students will fulfill assignment deadlines and post their progress online. During classtime, students are expected to share project development, obtain critique, and offer critique. Guests will be invited to offer feedback and advice in one-on-one sessions and in a group setting. The course will culminate with a final project presentation open to the entire NYUAD community.
 
+Grading
+-------
+10% - Attendance
+10% - Participation
+20% - Weekly Assignments
+20% - Mid-Term (Week 4) Project
+40% - Final Project
+
+Attendance & Participation
+--------------------------
+Students are expected to attend ALL classes. More than 1 unexcused absence is grounds for failing the class.
+In class, students are required to share work, offer feedback to fellow students, and present their final project at the end-of-term show. A failure to participate in these activitie is grounds for failing the class.
+
+Weekly Assignments
+------------------
+Each week, there will be an assignment that demonstrates iterative development of the student's individual project. The intent is that each week's work will build on the preceeding week and culminate in one large final project.
+
+Mid-Term
+--------
+Students are required to build a "user-testable" version of their project by Week 4. Outside guests will join class to interact with the projects and provide independent feedback. A successful mid-term project will be a functional version of the project that has a clear set of testable objectives.  A written analysis of the test results will also be required. 
+
+Final Project
+-------------
+At the end of the 7 weeks, each student will be required to publicly present their work. The final project is expected to demonstrate a working proof of concept. The final project will be evaluated based on:
+* the student's initial projects brief
+* weekly assignment updates and progress
+* the mid-term project results
+
 Schedule
 --------
 
 ##### WEEK 0 (TUESDAY JAN 26): Start At The End 
 * Introductions
 * Gazelle writing review exercise
-* Homework: Project Brief - answer the following questions, be prepared to share in class
+* **Homework**: Project Brief - answer the following questions, be prepared to share in class
 	* Project Title
 	* Project Description (max 100 words)
 	* Who is the user?
@@ -45,31 +73,31 @@ Schedule
 
 ##### WEEK 1 (JAN 31 - FEB 4): The Plan
 * Share project brief + Class feedback
-* Homework - Create the "Hello World" version of your project
+* **Homework** - Create the "Hello World" version of your project
 
 ##### WEEK 2 (FEB 7 - 11): Hello World
 * Share "Hello World" prototype
 * Create list of next steps
-* Homework - Continue working on project. 
+* **Homework** - Outline a "user-testable" version of your project. Continue working on project. 
 
 ##### WEEK 3 (FEB 14 - 18): Guest Critics Round One
 * Share progress
 * Guest feedback
-* Homework - Complete "user-testable" project. What will you test for and why?
+* **Homework** - Complete "user-testable" project. What will you test for and why?
 
 ##### WEEK 4 (FEB 21 - 25): Users 
 * User-testing day
-* Homework - Rework priority list + continue working on project
+* **Homework** - Write an analysis of the test results. Rework priority list + continue working on project
 
 ##### WEEK 5 (FEB 28 - MAR 3): Guest Critics Round Two 
 * Share user-testing results + subsequent progress
 * Guest feedback
 * One-On-One Meetings
-* Homework - Create final 2 week timeline + continue working on project
+* **Homework** - Create a final 2 week timeline + continue working on project
 
 ##### WEEK 6 (MAR 6 - MAR 10): Last Chance
 * Workshop
-* Homework - Complete project, prepare for final demo
+* **Homework** - Complete project, prepare for final presentation
 
 ##### WEEK 7 (MAR 13 - MAR 17): Final Due
 * Final presentations with guests
